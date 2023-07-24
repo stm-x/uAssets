@@ -5937,7 +5937,6 @@ _800x80_
 ###adsframe_2
 ###adsfundo
 ###adside
-###adsiframe
 ###adsimage
 ###adsitem
 ###adskinleft
@@ -23050,6 +23049,7 @@ browsershots.org#@#.advert_area
 ||afterwardstationquestions.com^
 ||aftrangale.com^
 ||aftrk1.com^
+||aftrk3.com^
 ||afwpc.com^
 ||agabreloomr.com^
 ||agacelebir.com^
@@ -25165,6 +25165,7 @@ browsershots.org#@#.advert_area
 ||besguses.pro^
 ||beshellspitous.com^
 ||besidesaffluentcurrently.com^
+||besighcaman.com^
 ||besinpbx.com^
 ||beskittyan.com^
 ||besmeargleor.com^
@@ -27767,6 +27768,7 @@ browsershots.org#@#.advert_area
 ||culsaids.xyz^
 ||cultergoy.com^
 ||culturalcollectvending.com^
+||cumbersomebonus.com^
 ||cumult.com^
 ||cunasdonat.com^
 ||cundumbagroom.com^
@@ -29690,6 +29692,7 @@ browsershots.org#@#.advert_area
 ||entrepreneurrestorationthereby.com^
 ||entrerscab.com^
 ||entriflingw.xyz^
+||entterto.com^
 ||entualkenti.buzz^
 ||enueduringhere.info^
 ||enuewasadirectres.info^
@@ -31734,6 +31737,7 @@ browsershots.org#@#.advert_area
 ||governessmagnituderecoil.com^
 ||governorpicklestraight.com^
 ||governorretired.com^
+||gowgycwrfbukst.com^
 ||gowhutho.com^
 ||gowpengagster.com^
 ||gpnjknuqas.xyz^
@@ -32413,6 +32417,7 @@ browsershots.org#@#.advert_area
 ||hieramuriel.com^
 ||hierarchymicrophonerandom.com^
 ||hierarchytotal.com^
+||hievel.com^
 ||higgiens23c5l8asfrk.com^
 ||highconvertingformats.com^
 ||highcpmrevenuenetwork.com^
@@ -33429,6 +33434,7 @@ browsershots.org#@#.advert_area
 ||irenicaserrano.com^
 ||ireraisin.com^
 ||irethertoldimn.xyz^
+||irgvfdwicqerqfy.com^
 ||iringtgandm.one^
 ||irisaffectioneducate.com^
 ||irizin.com^
@@ -33718,6 +33724,7 @@ browsershots.org#@#.advert_area
 ||jestbiases.com^
 ||jestinvaderspeedometer.com^
 ||jestthankfulcaption.com^
+||jesulf.com^
 ||jetordinarilysouvenirs.com^
 ||jetsomkhulda.com^
 ||jetsowilk.com^
@@ -36431,6 +36438,7 @@ browsershots.org#@#.advert_area
 ||n12qga4ld3zk.com^
 ||n19.biz^
 ||n49seircas7r.com^
+||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
 ||n9s74npl.de^
 ||naambonder.com^
 ||naampone.com^
@@ -39748,6 +39756,7 @@ browsershots.org#@#.advert_area
 ||pupilmudwort.com^
 ||pupilorgansmad.com^
 ||pupspu.com^
+||puqobfkghmyb.com^
 ||purchasefastidiouswindfall.com^
 ||purchaserteddy.com^
 ||purchasertormentscoundrel.com^
@@ -41937,6 +41946,7 @@ browsershots.org#@#.advert_area
 ||shiverscissors.com^
 ||shlyapajhd2kle8pnc09.com^
 ||shoabsie.xyz^
+||shoageep.com^
 ||shoagooy.net^
 ||shoahoom.com^
 ||shoawhom.com^
@@ -44868,6 +44878,7 @@ browsershots.org#@#.advert_area
 ||uncannyuneaths.com^
 ||uncertainimprovementsspelling.com^
 ||uncheckluggies.com^
+||unciat.com^
 ||uncide.com^
 ||unciet.com^
 ||uncipi.com^
@@ -45693,6 +45704,7 @@ browsershots.org#@#.advert_area
 ||vnrherdsxr.com^
 ||vntsm.com^
 ||vntsm.io^
+||vnvqoihbwgjqpa.com^
 ||voacheph.xyz^
 ||voadeezu.net^
 ||voaglazy.com^
@@ -47158,6 +47170,7 @@ browsershots.org#@#.advert_area
 ||ywyeetvrjx.xyz^
 ||yx-ads6.com^
 ||yxajqsrsij.com^
+||yxguqmcemyjiwb.com^
 ||yxkhpk.com^
 ||yxpoprve.com^
 ||yy9s51b2u05z.com^
@@ -48825,6 +48838,7 @@ browsershots.org#@#.advert_area
 ||23.109.87.45^
 ||23.109.87.47^
 ||23.109.87.74^
+||34.102.137.201^
 ||35.227.234.222^
 ||35.232.188.118^
 ||37.1.209.213^
@@ -49077,6 +49091,7 @@ browsershots.org#@#.advert_area
 ||afriflatry.co^$popup
 ||afront.io^$popup
 ||aftrk1.com^$popup
+||aftrk3.com^$popup
 ||agabreloomr.com^$popup
 ||agacelebir.com^$popup
 ||againstperfectlywrench.com^$popup
@@ -49788,6 +49803,7 @@ browsershots.org#@#.advert_area
 ||entjgcr.com^$popup
 ||entlyhaveb.autos^$popup
 ||entry-system.xyz^$popup
+||entterto.com^$popup
 ||eofst.com^$popup
 ||eonsmedia.com^$popup
 ||eoveukrnme.info^$popup
@@ -50874,6 +50890,7 @@ browsershots.org#@#.advert_area
 ||omgpm.com^$popup
 ||omgt4.com^$popup
 ||omgt5.com^$popup
+||omoahope.net^$popup
 ||onad.eu^$popup
 ||onatallcolumn.com^$popup
 ||onclickads.net^$popup
@@ -52135,6 +52152,7 @@ browsershots.org#@#.advert_area
 ||whirlwindofnews.com^$popup
 ||whiskerssituationdisturb.com^$popup
 ||whitenoisenews.com^$popup
+||whodouth.net^$popup
 ||wholefreshposts.com^$popup
 ||wholewowblog.com^$popup
 ||whookroo.com^$popup
@@ -52175,6 +52193,7 @@ browsershots.org#@#.advert_area
 ||worldfreshblog.com^$popup
 ||worriesteapotairborne.com^$popup
 ||worthyrid.com^$popup
+||woukrkskillsom.info^$popup
 ||wovensur.com^$popup
 ||wowshortvideos.com^$popup
 ||writeestatal.space^$popup
@@ -52350,6 +52369,7 @@ browsershots.org#@#.advert_area
 ||23.109.87.47^$popup
 ||23.109.87.71^$popup
 ||23.109.87.74^$popup
+||34.102.137.201^$popup
 ||35.227.234.222^$popup
 ||35.232.188.118^$popup
 ||5.45.79.15^$popup
@@ -54512,6 +54532,7 @@ browsershots.org#@#.advert_area
 ||porngames.adult^*=$popup,third-party
 ||pornoh.info^$popup
 ||prelanding3.cuntempire.com/?utm_$popup
+||tgp1.brazzersnetwork.com^$popup
 ||tm-offers.gamingadult.com^$popup
 ||tour.mrskin.com^$popup,third-party
 ||zillastream.com/api/$popup
