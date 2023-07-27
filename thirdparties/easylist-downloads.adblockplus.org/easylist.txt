@@ -187,7 +187,7 @@
 .cn/sc/*?n=$script,third-party
 .com/?ad=
 .com/a?pagetype
-.com/ad/$~image,third-party,domain=~mediaplex.com|~warpwire.com
+.com/ad/$~image,third-party,domain=~mediaplex.com|~warpwire.com|~wsj.com
 .com/ad?
 .com/adds/
 .com/adinf/
@@ -36907,6 +36907,7 @@ browsershots.org#@#.advert_area
 ||noddlegoop.com^
 ||nodouslover.com^
 ||nodulhrwxdptbc.com^
+||noearon.click^
 ||noelsdoc.cam^
 ||noerwe5gianfor19e4st.com^
 ||nofashot.com^
@@ -54694,6 +54695,7 @@ browsershots.org#@#.advert_area
 ||celebstoner.com/assets/images/img/sidebar/$image
 ||centent.stemplay.cc^
 ||clarksvilleonline.com/cols/
+||cloudfront.net/j/wsj-prod.js$domain=wsj.com
 ||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.br|amazon.com.mx|amazon.com.tr|amazon.de|amazon.eg|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.nl|amazon.pl|amazon.sa|amazon.se|amazon.sg
 ||cloudfront.net^$domain=titantv.com
 ||coincheck.com/images/affiliates/
@@ -54886,7 +54888,6 @@ browsershots.org#@#.advert_area
 ||manytoon.com/script/$script
 ||marineterms.com/images/banners/
 ||marketscreener.com/content_openx.php
-||marketwatch.com/asset/ace/ace.min.js
 ||mas.martech.yahoo.com^$domain=mail.yahoo.com
 ||masternodes.online/baseimages/
 ||maxgames.com/img/sponsor_
@@ -56293,6 +56294,7 @@ thisismoney.co.uk###fiveDealsWidget
 mediafire.ec,point2homes.com,propertyshark.com###fixedban
 cnx-software.com###fixeddbar
 vscode.one###flamelab-convo-widget
+nanoreview.net###float-sb-right
 clintonherald.com,ottumwacourier.com,thetimestribune.com###floorboard_block
 streams.tv###flowerInGarden
 12tomatoes.com###footboard
@@ -58685,6 +58687,7 @@ hoteldesigns.net##.n2-ss-slider
 naturalblaze.com##.n553lfzn75
 mail.google.com##.nH.PS
 cryptobriefing.com##.na-item.item
+nanoreview.net##.nad_only_desktop
 nascar.com##.nascar-ad-container
 allthatsinteresting.com##.native-box
 blockchair.com##.native-sentence
