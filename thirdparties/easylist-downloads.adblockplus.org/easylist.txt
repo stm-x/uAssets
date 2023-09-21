@@ -4634,6 +4634,7 @@ _800x80_
 ###banner-ads
 ###banner-advert
 ###banner-lg-ad
+###banner-native-ad
 ###banner-skyscraper
 ###banner300x250
 ###banner468
@@ -17918,6 +17919,7 @@ _800x80_
 ##a[href^="https://frameworkdeserve.com/"]
 ##a[href^="https://funkydaters.com/"]
 ##a[href^="https://geniusdexchange.com/"]
+##a[href^="https://ggbetpromo.com/"]
 ##a[href^="https://go.247traffic.com/"]
 ##a[href^="https://go.admjmp.com/"]
 ##a[href^="https://go.cmtaffiliates.com/"]
@@ -19887,6 +19889,7 @@ browsershots.org#@#.advert_area
 ||abombu.com^
 ||abomisi.com^
 ||abonnementpermissiveenliven.com^
+||abopeol.com^
 ||abordy.com^
 ||aboriginalhubby.com^
 ||aborld.com^
@@ -22865,6 +22868,7 @@ browsershots.org#@#.advert_area
 ||becramcreeky.com^
 ||becrustleom.com^
 ||becuboneor.com^
+||becutblipped.uno^
 ||bedaslonej.com^
 ||bedaslonejul.cc^
 ||bedbaatvdc.com^
@@ -24484,6 +24488,7 @@ browsershots.org#@#.advert_area
 ||cdsbnrs.com^
 ||cdtbox.rocks^
 ||cduamwclb.com^
+||cduygiph.com^
 ||cdwehdnnprdntse.com^
 ||ce2c208e9f.com^
 ||ceamtaaprhha.xyz^
@@ -24580,6 +24585,7 @@ browsershots.org#@#.advert_area
 ||cfrtvwybx.com^
 ||cfts1tifqr.com^
 ||cfubdjsolbs.com^
+||cgbaybqywso.com^
 ||cgbmjsasm.xyz^
 ||cgeckmydirect.biz^
 ||cglrsebnjptukjx.xyz^
@@ -28053,6 +28059,7 @@ browsershots.org#@#.advert_area
 ||enicyvys.xyz^
 ||enjoyedestrangeapplication.com^
 ||enjoyedtool.com^
+||enlales.com^
 ||enlargementillegal.com^
 ||enlightencentury.com^
 ||enlightenedinterest.pro^
@@ -28153,6 +28160,7 @@ browsershots.org#@#.advert_area
 ||epigeicnarthex.com^
 ||epigyneleonora.digital^
 ||epiloiawhilter.com^
+||epimacevseirm.com^
 ||epimerbeep.top^
 ||epists.com^
 ||epithetduler.com^
@@ -32917,6 +32925,7 @@ browsershots.org#@#.advert_area
 ||jouzoapi.com^
 ||jowarblushed.space^
 ||jowlishdiviner.com^
+||joycreatorheader.com^
 ||joyfulfearsome.com^
 ||joygaskin.com^
 ||joylessstarted.com^
@@ -36511,6 +36520,7 @@ browsershots.org#@#.advert_area
 ||notorietynoblemanproposition.com^
 ||notoriousentice.com^
 ||notos-yty.com^
+||notwithstandingpeel.com^
 ||noucoush.net^
 ||nougacoush.com^
 ||noughtefface.com^
@@ -37222,6 +37232,7 @@ browsershots.org#@#.advert_area
 ||onlinepromousa.com^
 ||onlineuserprotector.com^
 ||onlombreor.com^
+||onlyfansrips.com^
 ||onlylookupsud.info^
 ||onlyry.net^
 ||onlyyourbiglove.com^
@@ -37485,6 +37496,7 @@ browsershots.org#@#.advert_area
 ||ossgogoaton.com^
 ||osshydreigonan.com^
 ||osskanger.com^
+||osskugvirs.com^
 ||ossmightyenar.net^
 ||ossnatuer.com^
 ||osspalkiaom.com^
@@ -38030,6 +38042,7 @@ browsershots.org#@#.advert_area
 ||patioeasternopera.com^
 ||patiotheoretical.com^
 ||patodonalgomball.store^
+||patoionanrumand.com^
 ||patrickcodens.life^
 ||patriotapelles.com^
 ||patronageunlock.com^
@@ -40461,6 +40474,7 @@ browsershots.org#@#.advert_area
 ||reencoccous.store^
 ||reenginee.club^
 ||reerfdfgourgo.xyz^
+||reerfdfgourgoldpie.com^
 ||reesterzeniths.guru^
 ||reevoopt.com^
 ||refban.com^
@@ -44503,6 +44517,7 @@ browsershots.org#@#.advert_area
 ||tmjhdyghjm.com^
 ||tmmkhspf.xyz^
 ||tmnbocewmddu.com^
+||tmrjaghtledm.com^
 ||tmrjmp.com^
 ||tmyzer.com^
 ||tncomg.com^
@@ -46209,6 +46224,7 @@ browsershots.org#@#.advert_area
 ||vidghjlgkuyfk.site^
 ||vids-fun.online^
 ||vidsbig.online^
+||vidsbig.space^
 ||vidsforyou.mom^
 ||vidsforyou.online^
 ||vidsfun.info^
@@ -50564,6 +50580,7 @@ browsershots.org#@#.advert_area
 ||coalbagbices.website^$popup
 ||codedexchange.com^$popup
 ||codeonclick.com^$popup
+||coffee2play.com^$popup
 ||cogentpatientmama.com^$popup
 ||cogenttriprepel.com^$popup
 ||cognitionmesmerize.com^$popup
@@ -51881,6 +51898,7 @@ browsershots.org#@#.advert_area
 ||nannyamplify.com^$popup
 ||nanoadexchange.com^$popup
 ||nanouwho.com^$popup
+||nanrumandbac.com^$popup
 ||naoprj.com^$popup
 ||napkinlucent.com^$popup
 ||nasssmedia.com^$popup
@@ -52158,6 +52176,7 @@ browsershots.org#@#.advert_area
 ||passeura.com^$popup
 ||passfixx.com^$popup
 ||pasxfixs.com^$popup
+||patoionanrumand.com^$popup
 ||patrondescendantprecursor.com^$popup
 ||patronimproveyourselves.com^$popup
 ||paxxfiss.com^$popup
@@ -53428,6 +53447,7 @@ browsershots.org#@#.advert_area
 ||witalfieldt.com^$popup
 ||withdrawcosmicabundant.com^$popup
 ||withholdstandstill.com^$popup
+||withmefeyauknaly.com^$popup
 ||wlafx4trk.com^$popup
 ||woafoame.net^$popup
 ||woffxxx.com^$popup
@@ -54994,6 +55014,7 @@ browsershots.org#@#.advert_area
 ||d276dyxkw9wo01.cloudfront.net^
 ||d27genukseznht.cloudfront.net^
 ||d27gtglsu4f4y2.cloudfront.net^
+||d27pxpvfn42pgj.cloudfront.net^
 ||d27qffx6rqb3qm.cloudfront.net^
 ||d27x9po2cfinm5.cloudfront.net^
 ||d28exbmwuav7xa.cloudfront.net^
@@ -55555,6 +55576,8 @@ browsershots.org#@#.advert_area
 ||getflowads.net^$popup
 ||ggbet-online.net^$popup
 ||ggbetapk.com^$popup,third-party
+||ggbetery.net^$popup
+||ggbetpromo.com^$popup
 ||go.aff.estrelabetpartners.com^$popup
 ||go.camterest.com^$popup
 ||google.com/favicon.ico$popup
