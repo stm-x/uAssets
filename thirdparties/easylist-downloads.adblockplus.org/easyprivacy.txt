@@ -1561,6 +1561,7 @@
 /LogAmpHit?
 /LogAnalysisTracker/*
 /loganalyticsevent?
+/logAutoMicroConversion?
 /logclick.
 /logcollect.
 /logcollect_
@@ -3756,6 +3757,7 @@ _mongo_stats/
 ||btloader.com^
 ||bx-cloud.com^
 ||bydst.com^
+||byspotify.com^
 ||cadsuta.net^
 ||captcha-display.com^
 ||cbdatatracker.com^
@@ -4278,6 +4280,7 @@ _mongo_stats/
 ||apolloprogram.io^$third-party
 ||appboycdn.com^$third-party
 ||appcast.io^$third-party
+||appdynamics.com^$third-party
 ||appn.center^$third-party
 ||aprtn.com^$third-party
 ||aprtx.com^$third-party
@@ -4822,6 +4825,7 @@ _mongo_stats/
 ||europuls.eu^$third-party
 ||europuls.net^$third-party
 ||everestjs.net^$third-party
+||evergage.com^$third-party
 ||evisitanalyst.com^$third-party
 ||evorra.net^$third-party
 ||evyy.net^$third-party
@@ -9747,7 +9751,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.opmnstr.com/v2/geolocate/
 ||app.posthog.com/static/array.js
 ||app.yesware.com/t/$third-party
-||appdynamics.com/geo/$third-party
 ||appinthestore.com/click/
 ||apple.com/hvr/mw/v1/spile
 ||apple.com/mw/v1/reportAnalytics
@@ -13546,6 +13549,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fathom.app.silverbeak.com^
 ||fathom.status.im^
 ||fathom.tdvm.net^
+||fbo-statistics-collector-tc.is.flippingbook.com^
 ||fc2.com/ana/analyzer.php
 ||fc2.com/ana/processor.php?
 ||fc2.com/counter_img.php?
