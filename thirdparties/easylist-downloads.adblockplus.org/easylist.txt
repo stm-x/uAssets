@@ -301,7 +301,7 @@
 /adlib.js
 /adlib.min.js
 /adlog.php
-/admanager.$~object,~xmlhttprequest,domain=~admanager.alzura.com|~admanager.google.com|~admanager.opera.com|~admanager.roku.com
+/admanager.$~object,~xmlhttprequest,domain=~admanager.alzura.com|~admanager.google.com|~admanager.opera.com|~admanager.roku.com|~admanager.sevio.app
 /admanager/*$~object,domain=~blog.google|~konograma.com
 /admgr.
 /admitad.js
@@ -33202,7 +33202,6 @@ browsershots.org#@#.advert_area
 ||kamalafooner.space^
 ||kamamwvzmmzmy.top^
 ||kamassirangers.tech^
-||kaminari.systems^
 ||kamnebo.info^
 ||kamost.com^
 ||kanatventose.com^
@@ -59302,6 +59301,8 @@ ultrabookreview.com###zzifhome
 ultrabookreview.com###zzifhome2
 arydigital.tv###zzright
 androidauthority.com##.--___Mb
+androidauthority.com##.--___kb
+androidauthority.com##.--___lb
 talkingpointsmemo.com##.--span\:12.AdSlot
 bigissue.com##.-ad
 gamejolt.com##.-ad-widget
