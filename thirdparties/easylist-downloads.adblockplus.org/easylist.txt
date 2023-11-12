@@ -49249,6 +49249,7 @@ browsershots.org#@#.advert_area
 ||aralego.com^$third-party
 ||arcadebannerexchange.org^$third-party
 ||arcadechain.com^$third-party
+||armanet.co^$third-party
 ||artsai.com^$third-party
 ||assemblyexchange.com^$third-party
 ||assoc-amazon.ca^$third-party
@@ -49567,6 +49568,7 @@ browsershots.org#@#.advert_area
 ||forex-affiliate.com^$third-party
 ||forexprostools.com^$third-party
 ||free3dgame.xyz^$third-party
+||freedomadnetwork.com^$third-party
 ||freerotator.com^$third-party
 ||friendlyduck.com^$third-party
 ||fruitkings.com^$third-party
