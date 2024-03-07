@@ -65517,6 +65517,7 @@ sashares.co.za##.elementor-48612
 bikeradar.com##.elementor-element-3f6e8dd
 hilltimes.com##.elementor-element-5818a09
 thecountersignal.com##.elementor-element-8d2cc6c
+analyticsindiamag.com##.elementor-element-8e2d1f0
 granitegrok.com##.elementor-image > [data-wpel-link="external"]
 optimyz.com,ringsidenews.com##.elementor-shortcode
 canyoublockit.com##.elementor-widget-container > center > p
@@ -67781,6 +67782,7 @@ greatandhra.com,kitploit.com##[href^="https://bit.ly/"] img
 coingolive.com##[href^="https://bitpreco.com/"]
 wplocker.com##[href^="https://bluehost.sjv.io/"]
 dappradar.com##[href^="https://bogged.finance/"]
+romsdl.net##[href^="https://browimeto.click/"]
 analyticsindiamag.com##[href^="https://business.louisville.edu/"]
 gelbooru.com##[href^="https://buymyshit.moneygrubbingwhore.com/"]
 mrchecker.net##[href^="https://cardingmentor.org"]
