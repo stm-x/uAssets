@@ -13314,6 +13314,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||google.com/log?
 ||gotie.tunein.com^
 ||grabify.link/api/js
+||grgnsht.nzxt.com^
 ||groove.so/unlocker.js
 ||groupon.com/analytic/
 ||groupondata.com/tracky
