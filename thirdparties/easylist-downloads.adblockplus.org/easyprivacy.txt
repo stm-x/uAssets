@@ -5303,6 +5303,7 @@ omni.soundestlink.com$image
 ||sexystat.com^$third-party
 ||sf14g.com^$third-party
 ||shareasale.com^$third-party
+||shareasale-analytics.com^$third-party
 ||sharpspring.com^$third-party
 ||shinystat.com^$third-party
 ||shippinginsights.com^$third-party
@@ -48941,6 +48942,7 @@ abema.tv##+js(rmnt, script, NREUM)
 ||marmiton.org/reloaded/errpix.php
 ||medoucine.com/tracking/
 ||neko-san.fr/stats
+||ocular.dealabs.com^
 ||ouest-france.fr/v1/javascripts/*-googletag-
 ||ouest-france.fr/v1/javascripts/*-prebid-
 ||p.pagesjaunes.fr^
