@@ -1227,32 +1227,22 @@
 /sponsored-widget
 /sponsored_ad.
 /sponsored_ad/*
-/sponsored_ad_
 /sponsored_ads/*
 /sponsored_link.
 /sponsored_links_
 /sponsored_text.
-/sponsored_title.
-/sponsoredads/*
 /sponsoredlinks.
 /sponsoredlinks/*
 /sponsoredlinks?
-/sponsors-ads/*
-/sponsors_box.
-/squaread.
-/squareads.
-/static-ad-
+/sponsors/ads/*
+/squaread.jpg
+/squaread.js
 /static.ad.
 /static/ad/*
-/static/ad_
 /static/js/4728ba74bc.js$~third-party
-/sticky-ad-
-/sticky-ads-
-/sticky_ad.
-/sticky_ads.
-/stickyad.
-/stickyads.
-/story_ad.
+/sticky_ads.js
+/stickyad.js
+/stickyads.js
 /style_ad.css
 /suurl4.php?
 /suurl5.php
@@ -1266,8 +1256,6 @@
 /taboolaarticle.min.js
 /targetingAd.js
 /targetpushad.js
-/td-ads-
-/tds-ads-
 /theologicalpresentation.com/*
 /tncms/ads/*
 /tnt.ads.
@@ -1291,9 +1279,7 @@
 /valnet-header-ads.
 /vast/?zid=
 /velvet_stack_cmp.js
-/vendor-ads-
 /vendors~ads.
-/vert_ad.
 /vghd.gif
 /vghd2.gif
 /video-ad-overlay.
@@ -20243,6 +20229,7 @@ browsershots.org#@#.advert_area
 ||aiixyxwx.com^
 ||aikat-vim.com^
 ||aikboypeoriqk.com^
+||aikeroxqbgj.com^
 ||aikraboo.com^
 ||aikraith.net^
 ||aikravoapu.com^
@@ -20320,6 +20307,7 @@ browsershots.org#@#.advert_area
 ||aj2532.bid^
 ||aj2550.bid^
 ||aj2555.bid^
+||aj2627.bid^
 ||ajaltoly.com^
 ||ajar-substance.com^
 ||ajarodds.com^
@@ -37707,6 +37695,7 @@ browsershots.org#@#.advert_area
 ||lormeryacarari.website^
 ||lorrylips.com^
 ||lorsreatas.guru^
+||lorswhowishe.com^
 ||lorumotwnkkkk.com^
 ||lorybnfh.com^
 ||losercurt.com^
@@ -41454,6 +41443,7 @@ browsershots.org#@#.advert_area
 ||ondeerlingan.com^
 ||ondewottom.com^
 ||ondpjzusmncg.com^
+||ondshub.com^
 ||ondybazars.guru^
 ||oneadvupfordesign.com^
 ||oneclck.net^
@@ -48117,6 +48107,7 @@ browsershots.org#@#.advert_area
 ||smallerconceivesixty.com^
 ||smallerfords.com^
 ||smallestbiological.com^
+||smallestgirlfriend.com^
 ||smallestunrealilliterate.com^
 ||smallfunnybears.com^
 ||smallstrengthen.com^
@@ -59178,6 +59169,7 @@ browsershots.org#@#.advert_area
 ||lookandfind.me^$popup
 ||looksmart.com^$popup
 ||lootynews.com^$popup
+||lorswhowishe.com^$popup
 ||losingoldfry.com^$popup
 ||lostdormitory.com^$popup
 ||lottingjacks.top^$popup
@@ -59608,6 +59600,7 @@ browsershots.org#@#.advert_area
 ||onclickprediction.com^$popup
 ||onclicksuper.com^$popup
 ||onclicktop.com^$popup
+||ondshub.com^$popup
 ||one-name-studio.com^$popup
 ||oneadvupfordesign.com^$popup
 ||oneclickpic.net^$popup
@@ -60336,6 +60329,7 @@ browsershots.org#@#.advert_area
 ||slownansuch.info^$popup
 ||slowww.xyz^$popup
 ||sltracl.com^$popup
+||smallestgirlfriend.com^$popup
 ||smallfunnybears.com^$popup
 ||smart-url.net^$popup
 ||smart-wp.com^$popup
@@ -61970,6 +61964,7 @@ browsershots.org#@#.advert_area
 ||1437953666.rsc.cdn77.org^
 ||1482376030.rsc.cdn77.org^
 ||1489104297.rsc.cdn77.org^
+||1529462937.rsc.cdn77.org^
 ||1612118426.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1687654299.rsc.cdn77.org^
@@ -64377,6 +64372,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||techsparx.com/imgz/udemy/
 ||thanks.viewfr.com/webroot/ads/adsterra/
 ||thedailysheeple.com/images/banners/
+||thedailysheeple.com/wp-content/plugins/tds-ads-plugin/assets/js/campaign.js
 ||thefinancialexpress.com.bd/images/rocket-250-250.png
 ||theindependentbd.com/assets/images/banner/
 ||thephuketnews.com/photo/banner/
