@@ -34,7 +34,6 @@
 -ads/assets/$domain=~web-ads.org
 -assets/ads.$~script
 -auto-ads-
--banner-ad.
 -banner-ad_
 -banner-ads-$~script
 -contrib-ads.$~stylesheet
@@ -33286,6 +33285,7 @@ browsershots.org#@#.advert_area
 ||hewmjifrn4gway.com^
 ||hewokhn.com^
 ||hexerpabalum.com^
+||hexonesimphees.top^
 ||hexovythi.pro^
 ||heycompassion.com^
 ||heycrktc.xyz^
@@ -33912,6 +33912,7 @@ browsershots.org#@#.advert_area
 ||hugsgnome.com^
 ||hugysoral.digital^
 ||hulabipptemux.com^
+||hulledaries.top^
 ||hulsairtid.com^
 ||humaffableconsulate.com^
 ||humandiminutionengaged.com^
@@ -48611,6 +48612,7 @@ browsershots.org#@#.advert_area
 ||sluiceagrarianvigorous.com^
 ||sluicehamate.com^
 ||slumberloandefine.com^
+||slumdombigot.top^
 ||slumid.com^
 ||slumpyclueing.com^
 ||slushdevastating.com^
