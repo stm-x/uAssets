@@ -9400,12 +9400,10 @@ _800x80_
 ##.ads-right-min
 ##.ads-rotate
 ##.ads-row
-##.ads-rpline-com
 ##.ads-scroller-box
 ##.ads-section
 ##.ads-side
 ##.ads-sidebar
-##.ads-sidebar-300-600
 ##.ads-sidebar-boxad
 ##.ads-sidebar-widget
 ##.ads-sign
@@ -9420,7 +9418,6 @@ _800x80_
 ##.ads-skyscraper-container-right
 ##.ads-skyscraper-left
 ##.ads-skyscraper-right
-##.ads-slot-mb-container
 ##.ads-small
 ##.ads-small-horizontal
 ##.ads-small-squares
@@ -9432,12 +9429,9 @@ _800x80_
 ##.ads-square-large
 ##.ads-square-small
 ##.ads-squares
-##.ads-ss
 ##.ads-star
-##.ads-static-video-overlay
 ##.ads-stick-footer
 ##.ads-sticky
-##.ads-sticky-300-600
 ##.ads-story
 ##.ads-story-leaderboard-atf
 ##.ads-stripe
@@ -9446,7 +9440,6 @@ _800x80_
 ##.ads-system
 ##.ads-text
 ##.ads-title
-##.ads-tittle
 ##.ads-to-hide
 ##.ads-top
 ##.ads-top-728
@@ -9506,21 +9499,11 @@ _800x80_
 ##.ads300-250
 ##.ads300250
 ##.ads300_250
-##.ads300_250-widget
-##.ads300_600-widget
 ##.ads300box
-##.ads300n
-##.ads300nb
-##.ads300x
-##.ads300x100
 ##.ads300x600
-##.ads315
-##.ads320x100
 ##.ads336_280
 ##.ads336x280
 ##.ads4
-##.ads460
-##.ads460_home
 ##.ads468
 ##.ads468x60
 ##.ads600
@@ -9591,7 +9574,6 @@ _800x80_
 ##.adsTowerWrap
 ##.adsTxt
 ##.adsWidget
-##.adsWithUs
 ##.adsWrap
 ##.ads_160
 ##.ads_180
@@ -9610,7 +9592,6 @@ _800x80_
 ##.ads_Header
 ##.ads__article__header
 ##.ads__aside
-##.ads__claim-item
 ##.ads__container
 ##.ads__header
 ##.ads__horizontal
@@ -9627,12 +9608,9 @@ _800x80_
 ##.ads__sidebar
 ##.ads__top
 ##.ads_ad_box
-##.ads_admeld
-##.ads_adsense1
 ##.ads_after
 ##.ads_after_more
 ##.ads_amazon
-##.ads_amazon_outer
 ##.ads_area
 ##.ads_article
 ##.ads_banner
@@ -9641,7 +9619,6 @@ _800x80_
 ##.ads_between_content
 ##.ads_bg
 ##.ads_big
-##.ads_big-half
 ##.ads_bigrec
 ##.ads_block
 ##.ads_border
@@ -9655,9 +9632,6 @@ _800x80_
 ##.ads_container_top
 ##.ads_content
 ##.ads_css
-##.ads_der
-##.ads_desktop_r1
-##.ads_desktop_r2
 ##.ads_div
 ##.ads_div1
 ##.ads_foot
@@ -9673,14 +9647,9 @@ _800x80_
 ##.ads_holder
 ##.ads_home
 ##.ads_horizontal
-##.ads_in_list_autosize
-##.ads_infoBtns
-##.ads_inline_640
-##.ads_inside2
 ##.ads_inview
 ##.ads_item
 ##.ads_label
-##.ads_large_ads
 ##.ads_lb
 ##.ads_leader
 ##.ads_leaderboard
@@ -9704,8 +9673,6 @@ _800x80_
 ##.ads_player
 ##.ads_post
 ##.ads_prtext
-##.ads_qc1
-##.ads_qc2
 ##.ads_rectangle
 ##.ads_remove
 ##.ads_right
@@ -9725,9 +9692,7 @@ _800x80_
 ##.ads_spacer
 ##.ads_square
 ##.ads_takeover
-##.ads_tb-c
 ##.ads_text
-##.ads_ticker_main
 ##.ads_tit
 ##.ads_title
 ##.ads_top
@@ -16717,7 +16682,7 @@ adtunes.com#@##ad_thread_first_post_content
 aga-clinic-experience.jp#@##ad_top
 linuxtracker.org#@##adbar
 pyfunceble.readthedocs.io#@##adblock
-lalovings.com#@##adcontainer
+gifmagic.com,lalovings.com#@##adcontainer
 about.com#@##adcontainer1
 guloggratis.dk#@##adcontent
 lifeinvader.com#@##ads-col
@@ -65481,6 +65446,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||sportshub.to/player-source/images/banners/
 ||spotify.com/ads/
 ||spox.com/daznpic/
+||spys.one/*.png
 ||srilankamirror.com/images/banners/
 ||srware.net/iron/assets/img/av/
 ||startpage.com/sp/adsense/
@@ -66812,6 +66778,7 @@ game-news24.com###block-50
 ericpetersautos.com,upfivedown.com###block-6
 systutorials.com###block-7
 upfivedown.com###block-8
+oann.com###block-95
 leopathu.com###block-accuwebhostingcontenttop
 leopathu.com###block-accuwebhostingsidebartop
 slideme.org###block-block-31
@@ -70780,6 +70747,7 @@ todayuknews.com##.stream-item-top-wrapper
 siasat.com##.stream-item-widget
 news365.co.za##.stream-item-widget-content
 coinpedia.org##.stream-title
+open3dlab.com##.streamcontainer > div[style].stream
 stellar.ie##.stuck
 news.stv.tv##.stv-article-gam-slot
 dbltap.com##.style_7z5va1-o_O-style_48hmcm-o_O-style_1ts1q2h
@@ -72245,6 +72213,7 @@ radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.p
 dearbornmarket.com,fairwaymarket.com,gourmetgarage.com,priceritemarketplace.com,shoprite.com,thefreshgrocer.com##div[class^="ColListing"]:has(div[data-testid^="Sponsored"])
 wish.com##div[class^="ProductGrid__FeedTileWidthWrapper-"]:has(div[class^="DesignSpec__TextSpecWrapper-"][color="#6B828F"]:not([data-testid]))
 wish.com##div[class^="ProductTray__ProductStripItem-"]:has(div[class^="DesignSpec__TextSpecWrapper-"][color="#6B828F"][data-testid] + div[class^="DesignSpec__TextSpecWrapper-"][color="#6B828F"])
+virginradio.co.uk##div[class^="css-"]:has(> .ad-outline)
 flickr.com##div[class^="main view"]:has(a[href$="&ref=sponsored"])
 goal.com##div[class^="open-web-ad_"]
 cargurus.com##div[data-cg-ft="car-blade"]:has(div[data-cg-ft="sponsored-listing-badge"])
@@ -72503,6 +72472,7 @@ yahoo.com##li[data-test-locator="stream-related-ad-item"]
 youtube.com###masthead-ad
 youtube.com###player-ads
 youtube.com###shorts-inner-container > .ytd-shorts:has(> .ytd-reel-video-renderer > ytd-ad-slot-renderer)
+youtube.com##.YtdShortsSuggestedActionStaticHostContainer
 youtube.com##.ytd-merch-shelf-renderer
 youtube.com##.ytp-suggested-action > button.ytp-suggested-action-badge
 m.youtube.com##lazy-list > ad-slot-renderer
