@@ -63719,6 +63719,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||livescore.az/images/banners
 ||lontent.powzerz.lol^
 ||lordchannel.com/adcash/
+||lowfuelmotorsport.com/assets/img/partners/$image
 ||ltn.hitomi.la/zncVMEzbV/
 ||lw.musictarget.com^
 ||lycos.com/catman/
@@ -69306,7 +69307,8 @@ govexec.com##.skybox-item-sponsored
 cbssports.com##.skybox-top-wrapper
 cheese.com,datpiff.com,gtainside.com##.skyscraper
 plos.org##.skyscraper-container
-newsnow.co.uk##.skyscraper-left
+lowfuelmotorsport.com,newsnow.co.uk##.skyscraper-left
+lowfuelmotorsport.com##.skyscraper-right
 singaporeexpats.com##.skyscrapers
 everythingrf.com,futbol24.com##.skyscrapper
 myfoodbook.com.au##.slick--optionset--mfb-banners
@@ -70790,6 +70792,7 @@ groupon.com##figure[data-clickurl^="https://api.groupon.com/sponsored/"]
 imgburn.com##font[face="Arial"][size="1"]
 realitytvworld.com##font[size="1"][color="gray"]
 dailydot.com##footer
+mirrored.to##form[action^="//filesdl.cloud/"]
 law.com,topcultured.com##h3
 kazwire.com##h3.tracking-widest
 drive.com.au##hr
