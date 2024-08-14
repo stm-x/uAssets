@@ -47,7 +47,6 @@
 -popunder.
 -publicidad.
 -right-ad.
--side-ad.
 -sidebar-ad.
 -sponsor-ad.
 -sticky-ad-
@@ -44198,6 +44197,7 @@ browsershots.org#@#.advert_area
 ||settledchagrinpass.com^
 ||settlepineapple.com^
 ||settrogens.com^
+||setupad.net^
 ||setupdeliveredteapot.com^
 ||setupslum.com^
 ||seullocogimmous.com^
