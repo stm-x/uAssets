@@ -16243,6 +16243,7 @@ browsershots.org#@#.advert_area
 ||2de65ef3dd.com^
 ||2df0b2e308.com^
 ||2e4b7fc71a.com^
+||2e5e4544c4.com^
 ||2e754b57ca.com^
 ||2e8dgn8n0e0l.com^
 ||2ecfa1db15.com^
@@ -16944,6 +16945,7 @@ browsershots.org#@#.advert_area
 ||ablatesgascon.cam^
 ||ablativekeynotemuseum.com^
 ||ableandworld.info^
+||ableandworldwid.com^
 ||ablebodiedsweatisolated.com^
 ||ablecolony.com^
 ||ablestsigma.click^
@@ -17922,6 +17924,7 @@ browsershots.org#@#.advert_area
 ||afkwa.com^
 ||afloatroyalty.com^
 ||afm01.com^
+||afnhc.com^
 ||afnhfaklocdmq.com^
 ||afnyfiexpecttha.info^
 ||afoaglux.com^
@@ -27731,6 +27734,7 @@ browsershots.org#@#.advert_area
 ||fmhyysk.com^
 ||fmkqhwrfvs.com^
 ||fmocscbstnhbq.com^
+||fmoezqerkepc.com^
 ||fmoqabrwef.com^
 ||fmorugnmnihrcv.com^
 ||fmpub.net^
@@ -43453,6 +43457,7 @@ browsershots.org#@#.advert_area
 ||sanjay44.xyz^
 ||sankaudacityrefine.com^
 ||sankjerusalemflabbergasted.com^
+||sanoithmefeyau.com^
 ||sanseemp.com^
 ||sanseislydite.com^
 ||sansuni.xyz^
@@ -43889,6 +43894,7 @@ browsershots.org#@#.advert_area
 ||sendmepush.com^
 ||senecaanoles.com^
 ||seniorstemsdisability.com^
+||senitijanghey.shop^
 ||sennaalopeke.top^
 ||senonsiatinus.com^
 ||senorasdatchas.com^
@@ -48903,6 +48909,7 @@ browsershots.org#@#.advert_area
 ||venueitemmagic.com^
 ||venuewasadi.org^
 ||venulaeriggite.com^
+||venusfritter.com^
 ||veomjnjz.com^
 ||veoxphl.com^
 ||vepemtuphul.net^
@@ -54115,6 +54122,7 @@ browsershots.org#@#.advert_area
 ||40451343.xyz^$document,popup
 ||4126fe80.xyz^$document,popup
 ||420db600.xyz^$document,popup
+||42869755.xyz^$document,popup
 ||45496fee.xyz^$document,popup
 ||4602306b.xyz^$document,popup
 ||46276192.xyz^$document,popup
