@@ -55479,7 +55479,7 @@ thisismoney.co.uk###fiveDealsWidget
 point2homes.com,propertyshark.com###fixedban
 topsporter.net###fl-ai-widget-placement
 vscode.one###flamelab-convo-widget
-apkmody.mobi###flirtwith-modal
+apkmody.io,apkmody.mobi###flirtwith-modal
 nanoreview.net###float-sb-right
 animetrilogy.com###floatcenter
 editpad.org###floorad-wrapper
@@ -59205,7 +59205,7 @@ letsgodigital.org##.product__wrapper
 nymag.com##.products-package
 nymag.com##.products-package_single
 kohls.com##.products_grid.sponsored-product
-amtraktrains.com##.productslider
+amtraktrains.com,kitchenknifeforums.com##.productslider
 filehippo.com##.program-actions-header__promo
 filehippo.com##.program-description__slot
 as.com,gokunming.com##.prom
