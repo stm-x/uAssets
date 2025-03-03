@@ -1285,6 +1285,7 @@ _800x80_
 ://adn.*/zone/$popup
 ://ads.$popup,domain=~smartnews.com
 ://adv.$popup,domain=~adv.kompas.id|~adv.lack-girl.com
+?cf=ppd&r=$popup
 ! Commonly used popup scripts on movie/tv streaming sites
 |javascript:*setTimeout$popup
 |javascript:*window.location$popup
@@ -18945,6 +18946,7 @@ browsershots.org#@#.advert_area
 ||bayshorline.com^
 ||baywednesday.com^
 ||bazamodov.ru^
+||bbad91e014.com^
 ||bbangads.b-cdn.net^
 ||bbcrgate.com^
 ||bbd834il.de^
@@ -35362,6 +35364,7 @@ browsershots.org#@#.advert_area
 ||reedthatm.biz^
 ||reefcolloquialseptember.com^
 ||reekedtravels.shop^
+||reekhearsay.shop^
 ||reeledou.com^
 ||reelnk.com^
 ||reenakun.com^
@@ -44883,6 +44886,7 @@ browsershots.org#@#.advert_area
 ||74099753.xyz^
 ||74142961.xyz^
 ||74759411.xyz^
+||75264920.xyz^
 ||75690049.xyz^
 ||77886044.xyz^
 ||78161013.xyz^
@@ -44897,6 +44901,7 @@ browsershots.org#@#.advert_area
 ||83761158.xyz^
 ||83887336.xyz^
 ||84055600.xyz^
+||84302764.xyz^
 ||84631949.xyz^
 ||86124673.xyz^
 ||86222538.xyz^
