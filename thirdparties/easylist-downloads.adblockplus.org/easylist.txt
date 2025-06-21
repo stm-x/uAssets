@@ -799,7 +799,9 @@ _reklama_$domain=~youtube.com
 ?bd=ppd&r=$document
 ! Ad-Shield
 /ad-shield/e/*$script,third-party
+://www.*.com/content/*/-1/$script,subdocument,third-party,xmlhttprequest
 ://www.*.com/script/*.com.js|$script,third-party
+://www.*.com/script/*.org.js|$script,third-party
 ://www.*.xyz/content/*/-1/$script,subdocument,third-party,xmlhttprequest
 ://www.*.xyz/content/*/a/$subdocument,third-party
 ://www.*.xyz/content/*?h=$script,third-party
@@ -16639,6 +16641,7 @@ browsershots.org#@#.advert_area
 ||abjmkkoavooow.top^
 ||abjmkkoavowmm.top^
 ||abjmkkowboyow.top^
+||abkajbvlykemj.top^
 ||abkajbvlymjma.top^
 ||abkajbvlymjor.top^
 ||abkajbvlymqmb.top^
@@ -16826,6 +16829,7 @@ browsershots.org#@#.advert_area
 ||acnlupgp.com^
 ||acofrnsr44es3954b.com^
 ||acoossz.top^
+||acornedavolate.top^
 ||acqpizkpo.com^
 ||acqtfeofpa.com^
 ||acquaintance213.fun^
@@ -19903,6 +19907,7 @@ browsershots.org#@#.advert_area
 ||bizrotator.com^
 ||bizzzeczyqud.com^
 ||bj2550.com^
+||bjadelkrmufem.space^
 ||bjafafesg.com^
 ||bjajcmycsraxry.com^
 ||bjakku.com^
@@ -22676,6 +22681,7 @@ browsershots.org#@#.advert_area
 ||czuvzixm.com^
 ||czwgftuwfitha.space^
 ||czwxrnv.com^
+||czxnozkdqlcrk.online^
 ||d-agency.net^
 ||d03804f2c8.com^
 ||d03ab571b4.com^
@@ -23433,7 +23439,6 @@ browsershots.org#@#.advert_area
 ||disconnectedlasting.com^
 ||disconnectfrequentinvalid.com^
 ||disconnectthirstyron.com^
-||discord.com^
 ||discospiritirresponsible.com^
 ||discountplacidlysymphony.com^
 ||discountstickersky.com^
@@ -24379,6 +24384,7 @@ browsershots.org#@#.advert_area
 ||egqhbuyfdpswm.space^
 ||egraglauvoathog.com^
 ||egretswamper.com^
+||egroudoonikaizu.com^
 ||egvpxypbxvnqjy.com^
 ||egxtaxsqf.com^
 ||eh0ag0-rtbix.top^
@@ -25402,6 +25408,7 @@ browsershots.org#@#.advert_area
 ||fhkfdgwtzueans.com^
 ||fhktaryvtgnaw.store^
 ||fhldb.site^
+||fhpsuesupqexi.store^
 ||fhsmtrnsfnt.com^
 ||fhuwsmjjijivj.top^
 ||fhv00rxa2.com^
@@ -26276,6 +26283,7 @@ browsershots.org#@#.advert_area
 ||ganismpro.com^
 ||gannett.gcion.com^
 ||gantotireofhisl.com^
+||ganykaiggjfjb.com^
 ||gaoledisatide.top^
 ||gapersinglesa.com^
 ||gapgrewarea.com^
@@ -28062,6 +28070,7 @@ browsershots.org#@#.advert_area
 ||hotkabachok.com^
 ||hotlinedisappointed.com^
 ||hotnews1.me^
+||hotpotgowdy.top^
 ||hotrodsloobies.top^
 ||hotswoman-online.com^
 ||hottercensorbeaker.com^
@@ -29104,6 +29113,7 @@ browsershots.org#@#.advert_area
 ||iwyrldaeiyv.com^
 ||ixabcdszeufqo.icu^
 ||ixafr.com^
+||ixaxwiexuwcry.space^
 ||ixjqjoscayasz.website^
 ||ixnow.xyz^
 ||ixnp.com^
@@ -30857,6 +30867,7 @@ browsershots.org#@#.advert_area
 ||lizaitsuds.net^
 ||ljbiynvyhfteq.rocks^
 ||ljbwzlmlzvavm.top^
+||ljbzgjymlbqvg.top^
 ||ljcvlagsgqebugt.xyz^
 ||ljdzjtpnijpns.space^
 ||ljfrwpidsewus.store^
@@ -31079,6 +31090,7 @@ browsershots.org#@#.advert_area
 ||loutochaib.com^
 ||louxoxo.com^
 ||lovable-page.pro^
+||lovable-scale.com^
 ||love-flirtdream.com^
 ||love-partnersdreamers.com^
 ||love-romancejunction.com^
@@ -31169,6 +31181,7 @@ browsershots.org#@#.advert_area
 ||lsoextraorfekin.com^
 ||lsupvtyjffooymb.xyz^
 ||lsuwndhxt.com^
+||lswhomfiluabmep.com^
 ||lszydrtzsh.com^
 ||ltacuvowpzr.com^
 ||ltadmycmy.com^
@@ -33733,6 +33746,7 @@ browsershots.org#@#.advert_area
 ||ohtotgcwolma.com^
 ||ohtpigod.com^
 ||ohtqmamilan.com^
+||ohulrougleey.com^
 ||ohwcfznerxhjk.website^
 ||oianz.xyz^
 ||oijsncvhg.com^
@@ -41253,6 +41267,7 @@ browsershots.org#@#.advert_area
 ||tyrangrocersauce.com^
 ||tyrotation.com^
 ||tyserving.com^
+||tytowende.top^
 ||tytyeastfeukufun.info^
 ||tyuknsyenergy.com^
 ||tyuyplyncetdhr.com^
@@ -41771,6 +41786,7 @@ browsershots.org#@#.advert_area
 ||uwmsywuekjbcr.site^
 ||uwnqfhnsmveti.icu^
 ||uwnytpkxxpueh.club^
+||uwnzmswxqezot.space^
 ||uwoaptee.com^
 ||uwqsacaoeshlz.rocks^
 ||uwzaq.world^
@@ -43021,6 +43037,7 @@ browsershots.org#@#.advert_area
 ||wmjmswhivwzyzp.com^
 ||wmlollmkvybzm.top^
 ||wmmrbwiyztgeg.top^
+||wmnfqywhoauuo.website^
 ||wmnnjfe.com^
 ||wmober.com^
 ||wmothandhadb.com^
@@ -43466,6 +43483,7 @@ browsershots.org#@#.advert_area
 ||xoxyxaxtgkryj.club^
 ||xozdafoausk.com^
 ||xpfsmgxc.com^
+||xpfuvxwdiftfedv.com^
 ||xplqroiqwmtwdux.com^
 ||xpollo.com^
 ||xporn.in^
@@ -46423,6 +46441,7 @@ browsershots.org#@#.advert_area
 ||c2a0076d.xyz^
 ||ca9246.xyz^
 ||ce56df44.xyz^
+||chainstayornerypsstgeez.com^
 ||dcad1d97.xyz^
 ||e076.xyz^
 ||e75d10b9.live^
@@ -46433,6 +46452,7 @@ browsershots.org#@#.advert_area
 ||f6b458fd.xyz^
 ||fe9dc503.xyz^
 ||fs-loader.com^
+||hairyalligatorviolently.com^
 ||ko9t6qv2kt8psullo7pputs.xyz^
 ||kq6mv8mpvs4m10r449nms6.xyz^
 ||nextbeforefollowerskean.com^
