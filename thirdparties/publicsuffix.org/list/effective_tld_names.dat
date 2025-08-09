@@ -5,8 +5,8 @@
 // Please pull this list from, and only from https://publicsuffix.org/list/public_suffix_list.dat,
 // rather than any other VCS sites. Pulling from any other URL is not guaranteed to be supported.
 
-// VERSION: 2025-08-01_18-47-38_UTC
-// COMMIT: 758d5d610dffb02f3b38e8ee6783cec7def1c150
+// VERSION: 2025-08-08_06-46-17_UTC
+// COMMIT: 596a44137f4ae9a4e61a3e5008fb42d5fddb7ef2
 
 // Instructions on pulling and using this list can be found at https://publicsuffix.org/list/.
 
@@ -13818,6 +13818,11 @@ ravendb.community
 development.run
 ravendb.run
 
+// HiDNS : https://www.hidoha.net
+// Submitted by ifeng <admin@hidoha.net>
+hidns.co
+hidns.vip
+
 // home.pl S.A. : https://home.pl
 // Submitted by Krzysztof Wolski <krzysztof.wolski@home.eu>
 homesklep.pl
@@ -13835,7 +13840,6 @@ hoplix.shop
 // HOSTBIP REGISTRY : https://www.hostbip.com/
 // Submitted by Atanunu Igbunuroghene <publicsuffixlist@hostbip.com>
 orx.biz
-biz.gl
 biz.ng
 co.biz.ng
 dl.biz.ng
