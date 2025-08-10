@@ -5,8 +5,8 @@
 // Please pull this list from, and only from https://publicsuffix.org/list/public_suffix_list.dat,
 // rather than any other VCS sites. Pulling from any other URL is not guaranteed to be supported.
 
-// VERSION: 2025-08-08_06-46-17_UTC
-// COMMIT: 596a44137f4ae9a4e61a3e5008fb42d5fddb7ef2
+// VERSION: 2025-08-08_07-48-13_UTC
+// COMMIT: 9375d3415dea4bfcc974248b676bf0f6e6f2daa8
 
 // Instructions on pulling and using this list can be found at https://publicsuffix.org/list/.
 
@@ -12773,9 +12773,6 @@ deta.dev
 
 // Dfinity Foundation: https://dfinity.org/
 // Submitted by Dfinity Team <domains@dfinity.org>
-caffeine.ai
-id.ai
-icp-api.io
 icp0.io
 *.raw.icp0.io
 icp1.io
