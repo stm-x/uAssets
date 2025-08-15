@@ -2830,6 +2830,7 @@
 ://plausible.*/api/event|
 ://plausible.*/js/script.
 ://posthog.$script,domain=~posthog.com
+://rum.collector.
 ://segment-api.
 ://segment-cdn.
 ://stat.*/pageview/$xmlhttprequest
@@ -3265,6 +3266,7 @@ _WebVitalsReporter_
 ://links.flickr.com/s/eo/$image
 ://links.paypal.*/eos/$image
 ://parcel-api.delivery-status.*/open/$image
+://t.*/open^$image
 ://t.order.*/r/?id=$image
 ^endpoint=track^$image
 _ad_impression.
@@ -9472,6 +9474,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analyticcdn.globalmailer.com^
 ||analyticcdn.wlmediahub.com^
 ||analytics-1.cavai.com^
+||analytics-api.gemcommerce.com^
 ||analytics-api.klickly.com^
 ||analytics-cf.bigcrunch.com^
 ||analytics-cms.whitebeard.me^
@@ -12538,6 +12541,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sheego.de/ar/$third-party
 ||sim-technik.de/dvs.gif?
 ||sim-technik.de^*&uniqueTrackId=
+||simetra.tracking.ringieraxelspringer.tech^
 ||skoom.de/gratis-counter/
 ||somquery.sqrt-5041.de/tv/tracking-event
 ||sp.data.funkedigital.de^
@@ -14964,6 +14968,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||snapchat.com/web/metrics
 ||snohetta.com/js/plascript.js
 ||sofire.terabox.app^
+||solarwinds.com/ra-$script
 ||solidcams.com/api/metrics
 ||solvusoft.com^*/scripts/visitor.js
 ||sortlist.cloud/log
