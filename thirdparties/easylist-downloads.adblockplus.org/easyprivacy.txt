@@ -10708,6 +10708,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||k.streamrail.com^
 ||k5a.io/?i=
 ||kalstats.kaltura.com^
+||kameleoon.io/visit/events?
 ||kbb.com/partner/$third-party
 ||kelkoogroup.net/st?
 ||kimonix.com/analytics/
