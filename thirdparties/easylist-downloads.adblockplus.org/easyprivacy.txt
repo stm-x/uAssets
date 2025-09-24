@@ -1632,6 +1632,7 @@
 /opinionlab.js
 /optiextension.dll?$script
 /optimizelyjs/*
+/optimizerApi?event=
 /orichipixel.min.js
 /ot_e404.gif?
 /OtAutoBlock.js
@@ -6931,6 +6932,7 @@ omni.soundestlink.com$image
 ||earnbaht.com^
 ||earthups.com^
 ||eatablesquare.com^
+||echoacloud.com^
 ||echoinghaven.com^
 ||economysoil.com^
 ||educationcar.com^
@@ -7309,6 +7311,7 @@ omni.soundestlink.com$image
 ||kindasingle.com^
 ||kindhush.com^
 ||kitetuning.com^
+||kittycatking.com^
 ||knewpenny.com^
 ||knifetreasury.com^
 ||knitstamp.com^
@@ -8058,6 +8061,7 @@ omni.soundestlink.com$image
 ||suggestionbridge.com^
 ||sulkycook.com^
 ||summerobject.com^
+||sunsetcampfires.com^
 ||sunsetstatic.com^
 ||sunshinegates.com^
 ||sunshinepint.com^
