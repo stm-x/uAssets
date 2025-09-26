@@ -2122,7 +2122,7 @@
 /smetrics.*/b/ss/*
 /smetrics.*/id?
 /smg_tracking/js/onthe.io.js
-/Smile_ElasticsuiteTracker/*$script
+/Smile_ElasticsuiteTracker/js/tracking.min.js
 /smmch-mine.js
 /smmch-own.js
 /snowman.gif?p=
@@ -10235,6 +10235,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||crowdtwist.com/trck/$script
 ||crta.and.co.uk^
 ||crta.dailymail.co.uk^
+||cs.zg-api.com^
 ||csi.gstatic.com^
 ||csp-collector.appspot.com^
 ||csp-reporting.cloudflare.com^
@@ -15011,6 +15012,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.facebook.com^
 ||pixel.ionos.com^
 ||pixel.nine.com.au^
+||pixel.patch.com^
 ||pixel.tuko.co.ke^
 ||pixelzirkus.gameforge.com^
 ||pixiedust.buzzfeed.com^
@@ -54937,6 +54939,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 !---------- Polish ----------
 !
 @@||gemius.pl/gstream.js
+@@||gildia.pl/static/*/Smile_ElasticsuiteTracker/js/tracking.min.js$~third-party
 @@||hit.gemius.pl/__/redataredir?$domain=ing.pl
 @@||hit.interia.pl/iwa_core$script,~third-party
 @@||iwa.iplsc.com/iwa.js$script
