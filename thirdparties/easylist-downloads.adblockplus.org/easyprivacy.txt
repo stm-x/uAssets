@@ -53891,6 +53891,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||2gis.ru/_/metrics
 ||3dnews.ru/track
 ||4pda.ru/stat/
+||a.lifehacker.ru^
 ||a.mts.ru^
 ||a.pikabu.ru^
 ||a.ria.ru^
