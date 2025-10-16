@@ -7112,6 +7112,7 @@ omni.soundestlink.com$image
 ||functionalcrown.com^
 ||functionalfeather.com^
 ||funoverbored.com^
+||funtoyplanet.com^
 ||furryfork.com^
 ||fusedcontent.com^
 ||futuristicapparatus.com^
@@ -7284,6 +7285,7 @@ omni.soundestlink.com$image
 ||intentlens.com^
 ||internalcondition.com^
 ||internalsink.com^
+||intricateberry.com^
 ||inventorycache.com^
 ||inventtango.com^
 ||iotapool.com^
