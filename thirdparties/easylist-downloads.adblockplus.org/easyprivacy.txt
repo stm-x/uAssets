@@ -1363,6 +1363,7 @@
 /loader/counter.js
 /localga.js
 /locotrack.js
+/log-adblock.php?
 /log-moltron-interaction?
 /log-nt/*
 /log-reporter.js
