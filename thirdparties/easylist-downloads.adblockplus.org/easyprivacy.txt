@@ -506,6 +506,7 @@
 /brightedge.js
 /brightspot/analytics/*
 /brightTag-min.js
+/bsf-bing-scripts/custom-pixels/*
 /bsp-analytics.min.
 /bstat.js
 /btrack.php?
@@ -7645,6 +7646,7 @@ omni.soundestlink.com$image
 ||polishedfolly.com^
 ||politeplanes.com^
 ||politicalporter.com^
+||popmixradio.com^
 ||popplantation.com^
 ||possibleboats.com^
 ||possiblepencil.com^
