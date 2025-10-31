@@ -6482,6 +6482,7 @@ omni.soundestlink.com$image
 ! easyprivacy_trackingservers_admiral.txt
 ! Admiral
 ||2znp09oa.com^
+||3rdspacetech.com^
 ||4jnzhl0d0.com^
 ||82o9v830.com^
 ||abilityscale.com^
@@ -6689,6 +6690,7 @@ omni.soundestlink.com$image
 ||burlywhistle.com^
 ||burnbubble.com^
 ||bushesbag.com^
+||businessupdater.com^
 ||bustlingbook.com^
 ||butterbulb.com^
 ||butterburst.com^
@@ -7970,6 +7972,7 @@ omni.soundestlink.com$image
 ||snakeslang.com^
 ||snappyreport.com^
 ||snapsgate.com^
+||snazzypoodle.com^
 ||sneakwind.com^
 ||sneakystew.com^
 ||sneezecovers.com^
