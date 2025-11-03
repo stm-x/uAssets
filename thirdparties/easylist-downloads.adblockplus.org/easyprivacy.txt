@@ -6529,6 +6529,7 @@ omni.soundestlink.com$image
 ||alikeaddition.com^
 ||aliveachiever.com^
 ||alloutdubstep.com^
+||alltypo.com^
 ||alluringbucket.com^
 ||almostsugar.com^
 ||alohamiles.com^
@@ -7607,6 +7608,7 @@ omni.soundestlink.com$image
 ||parchedsofa.com^
 ||parentpicture.com^
 ||parsimoniouspolice.com^
+||partnerhut.com^
 ||partplanes.com^
 ||passivepolo.com^
 ||pastoralroad.com^
@@ -7948,6 +7950,7 @@ omni.soundestlink.com$image
 ||singroot.com^
 ||sinkportal.com^
 ||sixauthority.com^
+||sixpants.com^
 ||sixscissors.com^
 ||sizzlingsmoke.com^
 ||sketchpals.com^
