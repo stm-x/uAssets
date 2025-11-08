@@ -7921,6 +7921,7 @@ omni.soundestlink.com$image
 ||settleshoes.com^
 ||sevenhalves.com^
 ||shadeship.com^
+||shadowmade.com^
 ||shaggytank.com^
 ||shakegoldfish.com^
 ||shakysurprise.com^
@@ -8064,6 +8065,7 @@ omni.soundestlink.com$image
 ||squarecamel.com^
 ||squeakzinc.com^
 ||squealingturn.com^
+||squidlogic.com^
 ||squishybears.com^
 ||stageschine.com^
 ||stakedances.com^
@@ -8393,6 +8395,7 @@ omni.soundestlink.com$image
 ||worriedwine.com^
 ||wrapstretch.com^
 ||wretchedfloor.com^
+||writerhubs.com^
 ||writewealth.com^
 ||wrongpotato.com^
 ||wrongwound.com^
