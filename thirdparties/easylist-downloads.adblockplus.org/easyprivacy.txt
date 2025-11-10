@@ -3185,6 +3185,7 @@ _WebVitalsReporter_
 /ap.lijit.com/*
 /api.transferwise.com/v1/notification-flow/messages/*/open.gif
 /atlas-trk.prd.msg.ss-inf.net/*$image
+/b.k3r.jp/?a=$image
 /beacon.krxd.net/*
 /beacon?data=$image
 /beaconimages.netflix.net/*$image
@@ -53826,7 +53827,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||daumcdn.net^*/awsa.js
 ||dpg.danawa.com/*/rest/*getStampEvent
 ||gmarket.co.kr/js/common/uuid.js
-||haystack.wavve.com^
 ||hits.zdnet.co.kr^
 ||jdsports.co.kr/collect.php
 ||kyson.kakao.com^
