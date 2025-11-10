@@ -6922,6 +6922,7 @@ omni.soundestlink.com$image
 ||deluxecrate.com^
 ||dependenttrip.com^
 ||deployinput.com^
+||desertgates.com^
 ||designsgrid.com^
 ||desirebucket.com^
 ||desiredirt.com^
@@ -7310,6 +7311,7 @@ omni.soundestlink.com$image
 ||inputicicle.com^
 ||inquisitiveice.com^
 ||inquisitiveinvention.com^
+||inspirebees.com^
 ||insulatech.com^
 ||intelligentscissors.com^
 ||intentlens.com^
@@ -7580,6 +7582,7 @@ omni.soundestlink.com$image
 ||octaneblood.com^
 ||offerniche.com^
 ||offgridcrops.com^
+||offshoreassets.com^
 ||offshorecyclone.com^
 ||offshoregeology.com^
 ||oldandindie.com^
