@@ -1942,7 +1942,6 @@
 /reportData/nm.gif?
 /reporting/metrics
 /ResonateAnalytics.min.js
-/resource?zones=
 /rest/analytics/*
 /resxclsa.js
 /resxclsx.js
@@ -6856,6 +6855,7 @@ omni.soundestlink.com$image
 ||crafthenry.com^
 ||crashchance.com^
 ||cratecamera.com^
+||createdip.com^
 ||creatorcherry.com^
 ||creatorpassenger.com^
 ||creatorsnote.com^
@@ -6921,6 +6921,7 @@ omni.soundestlink.com$image
 ||deliciousducks.com^
 ||deltafault.com^
 ||deluxecrate.com^
+||demorewards.com^
 ||dependenttrip.com^
 ||deployinput.com^
 ||desertgates.com^
@@ -8136,6 +8137,7 @@ omni.soundestlink.com$image
 ||stupidscene.com^
 ||stupidsnake.com^
 ||sturdysnail.com^
+||stylelockers.com^
 ||stylishbuds.com^
 ||subjectivepoint.com^
 ||sublimequartz.com^
