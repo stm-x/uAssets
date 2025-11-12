@@ -7531,6 +7531,7 @@ omni.soundestlink.com$image
 ||muteknife.com^
 ||mutemailbox.com^
 ||mutualhappy.com^
+||mysketchpad.com^
 ||mysticalagoon.com^
 ||naivestatement.com^
 ||nappyattack.com^
