@@ -6493,6 +6493,7 @@ omni.soundestlink.com$image
 ||4jnzhl0d0.com^
 ||82o9v830.com^
 ||abilityscale.com^
+||abilitytoucan.com^
 ||abjectattempt.com^
 ||aboardamusement.com^
 ||aboardlevel.com^
@@ -7599,6 +7600,7 @@ omni.soundestlink.com$image
 ||oafishobservation.com^
 ||objecthero.com^
 ||objectsnetwork.com^
+||oblivionfleet.com^
 ||obscenesidewalk.com^
 ||octaneblood.com^
 ||offerniche.com^
