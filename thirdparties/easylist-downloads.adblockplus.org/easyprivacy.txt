@@ -1468,6 +1468,7 @@
 /LogRecorder.php
 /logreferrer.php?
 /logs/report_js_error
+/logs?ddsource=
 /logstat.js
 /logstats.php
 /logview.js
@@ -3317,6 +3318,7 @@ _WebVitalsReporter_
 ://e.*/open?$image
 ://email.*/o/$image
 ://emailtracking.$image
+://line.karte.io/CI0/$image
 ://links.flickr.com/s/eo/$image
 ://links.paypal.*/eos/$image
 ://mailmag.hhcross.hankyu-hanshin.jp/c/*.gif
