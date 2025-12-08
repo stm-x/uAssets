@@ -3008,6 +3008,7 @@ _WebVitalsReporter_
 /*JmVu.js?sp=
 /*JmVu.js?tg=
 /.netlify/scripts/rum
+/.rum/@adobe/helix-
 /ns.html?id=GTM-
 /send_ga4_params?
 /tag/proxy?id=G-
@@ -48163,6 +48164,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ! ||link.tubi.tv^
 ! ||app.teachfx.com^
 ! ||open.airtelxstream.in^
+! ||deeplink.xeropan.com^
 !
 ! Company name: Branch.io
 !
@@ -49530,7 +49532,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||deeplink.wagr.ai^
 ||deeplink.wbnc.99array.com^
 ||deeplink.winespectator.com^
-||deeplink.xeropan.com^
 ||deeplinkdev.upoker.net^
 ||deeplinks.amex.dynamify.com^
 ||deeplinks.breaz.dynamify.com^
