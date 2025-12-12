@@ -2387,6 +2387,7 @@
 /track.v2.js
 /track/?*&event=
 /track/?data=
+/track/?verbose=
 /track/aggregate?
 /track/batch?
 /Track/Capture.aspx?
@@ -6836,6 +6837,7 @@ omni.soundestlink.com$image
 ||comfortablecheese.com^
 ||commonalmanac.com^
 ||comparereaction.com^
+||compilework.com^
 ||complexpixel.com^
 ||concretetom.com^
 ||condemnedcomb.com^
@@ -6964,6 +6966,7 @@ omni.soundestlink.com$image
 ||detourgame.com^
 ||devilishdinner.com^
 ||dewdroplagoon.com^
+||dicecandies.com^
 ||dicemoments.com^
 ||difficultfog.com^
 ||digestiondrawer.com^
