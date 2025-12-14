@@ -7311,6 +7311,7 @@ omni.soundestlink.com$image
 ||helpflame.com^
 ||helpingbits.com^
 ||hertechlife.com^
+||heycomputers.com^
 ||hfc195b.com^
 ||highfalutinbox.com^
 ||highfalutinhoney.com^
@@ -7495,6 +7496,7 @@ omni.soundestlink.com$image
 ||maddeningpowder.com^
 ||madebyintent.com^
 ||madlysuccessful.com^
+||madoverrice.com^
 ||magicaljoin.com^
 ||magicminibox.com^
 ||majesticwaterscape.com^
@@ -10529,6 +10531,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dynamicyield.com/var?
 ||e.channelexco.com^
 ||e.ebidtech.com/cv/
+||e.revenue.cat^
 ||e045f561.b-cdn.net^
 ||ea.youmaker.com^
 ||early-birds.fr/tracker/
@@ -12512,6 +12515,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zapcdn.space/zapret.js
 ||zendesk.com/frontendevents/$xmlhttprequest
 ||zengenti.com/tags/
+||zeropartyforms.com^*/digibox.gif?
 ||zi-scripts.com/zi-tag.js
 ||ziffdavisb2b.com^*/tracker.js
 ||zineone.com^*/event
@@ -19241,6 +19245,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ! ||w.smobile.wotif.com^
 ! ||sstats.bitdefender.com^
 ! ||target.microsoft.com^
+! ||aamt.msnbc.com^
 !
 ||0tfsd2rwwu3xjstb.edge41.testandtarget.omniture.com^
 ||1ps6e7sort397gy9.edge46.testandtarget.omniture.com^
@@ -19395,7 +19400,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||aadata.april-international.com^
 ||aainfo.anz.co.nz^
 ||aametrics.aktia.fi^
-||aamt.msnbc.com^
 ||aamt.nbcnews.com^
 ||aamt.newsapp.telemundo.com^
 ||aamt.today.com^
@@ -55285,6 +55289,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 @@||afisha.ru/proxy/videonetworkproxy.ashx?$xmlhttprequest
 @@||criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
 @@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
+@@||docs.rucml.ru/e.gif?$~third-party
 @@||fplay.online/log_event$~third-party,xmlhttprequest
 @@||k12-company.ru^*/statistics.js$script
 @@||krok8.com/wp-content/plugins/pageviews/pageviews.min.js$script,~third-party
