@@ -6735,6 +6735,7 @@ omni.soundestlink.com$image
 ||butterburst.com^
 ||buttonladybug.com^
 ||buzzaoutlet.com^
+||buzzfry.com^
 ||cafefrench.com^
 ||cafescampfires.com^
 ||cakeagenda.com^
@@ -6851,6 +6852,7 @@ omni.soundestlink.com$image
 ||confesschairs.com^
 ||confidencetalks.com^
 ||configchain.com^
+||configcontrol.com^
 ||confirmglobal.com^
 ||confusedcart.com^
 ||connectashelf.com^
@@ -10188,6 +10190,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn.clkmc.com/cmc.js
 ||cdn.cuty.io/fps.js
 ||cdn.debugbear.com^$third-party
+||cdn.lr-hv-in.com/logger.min.js
 ||cdn.one.store/xdomain_cookie.html
 ||cdn.polarbyte.com^
 ||cdn.ravm.tv^
