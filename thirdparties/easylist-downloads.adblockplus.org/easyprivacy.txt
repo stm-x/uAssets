@@ -3192,6 +3192,7 @@ _WebVitalsReporter_
 .zippingcare.com/beacon/$image
 /1x1_usermatch.gif?
 /?s=from_notification_service&u=$image
+/_t/open/*$image
 /ap.lijit.com/*
 /api.transferwise.com/v1/notification-flow/messages/*/open.gif
 /atlas-trk.prd.msg.ss-inf.net/*$image
@@ -3913,6 +3914,7 @@ omni.soundestlink.com$image
 ||addfreestats.com^$third-party
 ||addwish.com^$third-party
 ||adelixir.com^$third-party
+||adfenix.com^$third-party
 ||adfox.ru^$third-party
 ||adgreed.com^$third-party
 ||adheart.de^$third-party
@@ -12444,6 +12446,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wds.weqs.me^
 ||weather.ca/counter.gif?
 ||web-beacon.starii-rover.com^
+||web-rabbit.meitustat.com/report?
 ||web-tracker.smsbump.com^
 ||web.aips-sol.com/v1/events?
 ||web.valiuz.com^*/tag.js
@@ -53370,6 +53373,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||log.mgtv.com^
 ||log.mix.sina.com.cn^
 ||log.sina.cn^
+||log.zcool.com.cn^
 ||log.zongheng.com^
 ||log2.sina.cn^
 ||logs.51cto.com^
@@ -53527,7 +53531,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||ylog.huya.com^
 ||youku.com/log/
 ||yxdown.com/count.js
-||zcool.com.cn/track/
 ||zhihu-web-analytics.zhihu.com^
 ||zhihu.com/collector/
 ||zhihu.com/zbst/events/
