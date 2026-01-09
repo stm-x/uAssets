@@ -6740,6 +6740,7 @@ omni.soundestlink.com$image
 ||brownboxgroup.com^
 ||bruisebaseball.com^
 ||bubblyaction.com^
+||buddycanvas.com^
 ||bugpizza.com^
 ||buildingknife.com^
 ||bulbbait.com^
