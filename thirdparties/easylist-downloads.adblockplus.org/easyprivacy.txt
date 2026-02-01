@@ -16080,6 +16080,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker-remp.premiumtimesng.com^
 ||tracker.affiliate.iqbroker.com^
 ||tracker.bang.com^
+||tracker.hollandandbarrett.com^
 ||tracker.nbcuas.com^
 ||tracker.ranker.com^
 ||tracker.shopclues.com^
