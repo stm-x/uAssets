@@ -3844,6 +3844,7 @@ omni.soundestlink.com$image
 ||vfghe.com^
 ||videoplayerhub.com^
 ||visit-server.inmobi-choice.io^
+||visitor-speed.com^
 ||vkanalytics.net^
 ||vmzqqmlpwwmazjnio.com^
 ||vpdcp.com^
