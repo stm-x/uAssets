@@ -1092,6 +1092,7 @@
 /geoip_cc
 /geoLocationData/v1/*
 /geov2.js
+/get/live/web/_/*$script,~third-party
 /get_geoip?
 /get_site_data?requestUUID=
 /getbglog.js
@@ -16390,6 +16391,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||two.cm.com^
 ||tyler-brown.com/api/stats?
 ||typepad.com/t/stats?
+||u.strike.bz^
 ||u1sdata.webullfintech.com^
 ||ua.financialexpress.com/api/capture
 ||ua.indianexpress.com^
