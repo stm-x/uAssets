@@ -15017,6 +15017,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dap.digitalgov.gov/Universal-Federated-Analytics-Min.js
 ||darkreader.org/elements/statistics.js
 ||data.allstate.com^
+||data.api.canalplus.com/event
 ||data.barry-callebaut.com^
 ||data.cheatography.com/banana.js
 ||data.debugbear.com^
