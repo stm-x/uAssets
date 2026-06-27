@@ -10083,6 +10083,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.disney.go.com^
 ||analytics.disneyinternational.com^
 ||analytics.distributednews.com^
+||analytics.divulg.org^
 ||analytics.dv.socure.io^
 ||analytics.dvidshub.net^
 ||analytics.edgekey.net^
@@ -56003,6 +56004,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 !
 !---------- Japanese ----------
 !
+@@||a.run.app/api/stat?$domain=cocowa.app
 @@||allabout.co.jp/mtx_cnt.js$script,~third-party
 @@||analytics.digitalpfizer.com/js/prod/pcc/pf_appmeasurement.js$domain=pfizer-covid19-vaccine.jp
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
