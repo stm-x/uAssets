@@ -6796,6 +6796,7 @@ omni.soundestlink.com$image
 ||bandborder.com^
 ||barbarousbase.com^
 ||barbershirts.com^
+||barkfactor.com^
 ||barqueue.com^
 ||baseboosters.com^
 ||basilfish.com^
@@ -16690,6 +16691,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||waaw1.tv/cdn-cgi/trace
 ||waitrose.com/gDaVC7/
 ||wal.wolfram.com^
+||wallethacks.com/js/t/|
+||wallethacks.com/js/w
 ||walmart.ca/api/bsp/logger
 ||walmart.ca/api/home-page/logger
 ||walmart.ca/api/landing-page/beacon-logger
