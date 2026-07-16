@@ -8349,6 +8349,7 @@ omni.soundestlink.com$image
 ||skilledview.com^
 ||skillfuldrop.com^
 ||skillfullyfrugal.com^
+||skillpuppy.com^
 ||skisofa.com^
 ||skullmagnets.com^
 ||skullteeth.com^
@@ -8550,6 +8551,7 @@ omni.soundestlink.com$image
 ||swingslip.com^
 ||swipechief.com^
 ||swirlstop.com^
+||swordblock.com^
 ||swordgoose.com^
 ||syllablesight.com^
 ||synonymoussticks.com^
