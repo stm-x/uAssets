@@ -18556,6 +18556,7 @@ browsershots.org#@#.advert_area
 ||alexabyte.site^
 ||alexatracker.com^
 ||alexiasparamamidate.cfd^
+||alexisskipped.cfd^
 ||alfalfaemployeeresource.com^
 ||alfasense.com^
 ||alfionadicot.shop^
@@ -20250,6 +20251,7 @@ browsershots.org#@#.advert_area
 ||balteraided.qpon^
 ||balteusngapi.cfd^
 ||balteusrail.qpon^
+||balubaeirenic.qpon^
 ||balunkalends.com^
 ||balvalur.com^
 ||balzadicyema.com^
@@ -22585,6 +22587,7 @@ browsershots.org#@#.advert_area
 ||c5acd666f8.com^
 ||c607b31b1a.com^
 ||c635e33b2e.com^
+||c65cb58426.com^
 ||c6fuo6cx2rz5ywyh.cfd^
 ||c74l4kr3f2fjv8j.rest^
 ||c7f22da8bd.com^
@@ -26366,6 +26369,7 @@ browsershots.org#@#.advert_area
 ||diagramwrangleupdate.com^
 ||dialercalinut.cyou^
 ||dialergruf.cyou^
+||diallelpantoumexceed.cfd^
 ||dialling-abutory.com^
 ||diamidelambish.qpon^
 ||diamidoanthropsoul.qpon^
@@ -40181,6 +40185,7 @@ browsershots.org#@#.advert_area
 ||lnaxgfnttnrye.online^
 ||lnbjvhefrwuxh.website^
 ||lnbkckhipmi.com^
+||lnbqvaoxbhkze.website^
 ||lnddkooitabnj.online^
 ||lndusvdcfllil.website^
 ||lnecjgfxtmyul.online^
@@ -40273,6 +40278,7 @@ browsershots.org#@#.advert_area
 ||logicschort.com^
 ||logingenerosity.com^
 ||loginrubbishobey.com^
+||logjamstill.cfd^
 ||logriakeys.cfd^
 ||logsaddiction.com^
 ||logshandgripquarterback.com^
@@ -42307,6 +42313,7 @@ browsershots.org#@#.advert_area
 ||monxserver.com^
 ||mooddivided.com^
 ||moodeign.cyou^
+||moodierholibut.qpon^
 ||moodytrustworthy.com^
 ||moodyyobs.shop^
 ||moogratkzvmwt.online^
@@ -43226,6 +43233,7 @@ browsershots.org#@#.advert_area
 ||ncb8686wbj42wz6wqnm8z23ue.cfd^
 ||ncdahpcljuipw.site^
 ||ncdplvdquspma.online^
+||ncgpcuweuiulu.space^
 ||nch85ec3uyk3r53re.cfd^
 ||nchkftnswbfll.space^
 ||ncieuiouesnbm.website^
@@ -46796,6 +46804,7 @@ browsershots.org#@#.advert_area
 ||pevxxyfyhsvlh.global^
 ||peweocpibxvvi.space^
 ||pewfeafvlaiwe.online^
+||pewpxlxlfsaac.website^
 ||pewyforz.shop^
 ||pexcsvjiecyoi.site^
 ||pexmjwvdpjjdd.space^
@@ -46904,6 +46913,7 @@ browsershots.org#@#.advert_area
 ||philosophydill.com^
 ||philosophyforgerydense.com^
 ||philtrerewayle.cfd^
+||phjelnacnkkli.website^
 ||phjpiksdnhccr.site^
 ||phkajhwgblmke.space^
 ||phkavwzvgjjtw.online^
@@ -46973,6 +46983,7 @@ browsershots.org#@#.advert_area
 ||phytolcowfish.cfd^
 ||phytometextlet.cyou^
 ||phytonsfurner.com^
+||phztnfimeghth.space^
 ||pi243rnxjmqx6be3.cfd^
 ||pi8nrmi7tpcbjlg3rtehy.rest^
 ||pi95lzihjbh91375yf.rest^
@@ -48077,6 +48088,7 @@ browsershots.org#@#.advert_area
 ||prizingupfurl.com^
 ||prksism.com^
 ||prkudpsduulrx.online^
+||prkvciyiwymts.space^
 ||prlazithizuuu.space^
 ||prlbllxlbfzqt.website^
 ||prmvpazndpzis.online^
@@ -48476,6 +48488,7 @@ browsershots.org#@#.advert_area
 ||pucheroclarify.cfd^
 ||puckerstought.cfd^
 ||puckishverdin.qpon^
+||pudendaleskeasucrose.cfd^
 ||pudwqcpwgemml.website^
 ||pueriledod.qpon^
 ||puffsrubiest.cyou^
@@ -48690,6 +48703,7 @@ browsershots.org#@#.advert_area
 ||pvokaqjpntpin.store^
 ||pvqjldytcvxix.online^
 ||pvsbdkpkydhaj.website^
+||pvtcfeojlwxrx.online^
 ||pvtnlmysbeigh.website^
 ||pvuaypsrfcecd.site^
 ||pvuznrtadztxu.space^
@@ -59610,6 +59624,7 @@ browsershots.org#@#.advert_area
 ||violet-attitude.pro^
 ||violetcommercial.com^
 ||violetlimitdownstairs.com^
+||violetscelesta.qpon^
 ||violineguldens.cyou^
 ||violinspickets.cfd^
 ||violoussummarcormels.qpon^
@@ -81691,6 +81706,7 @@ etsy.com##[data-page-type="similar-listing-page"]:has([id^="ad-listing-title-"])
 noon.com##[data-qa="plp-grid"] [data-qa="plp-product-box"]:has(svg[width="20"] > path[d])
 noon.com##[data-qa="plp-product-box"]:has([class^="SponsoredTag"])
 noon.com##[data-qa="widget_recommendedProducts"]:has(svg[width="20"] > path[d])
+wolt.com##[data-test-id="MainDiscoveryContent"] li[draggable]:has(a[aria-label*="Sponsored"])
 pexels.com##[data-testid="column"] [data-testid="item"]:has([class*="AIGCAdShared"])
 pexels.com##[data-testid="column"] [data-testid="item"]:has([data-heading*="Sponsored"])
 pexels.com##[data-testid="column"] [data-testid="item"]:has([data-text="Sponsored Photos"])
@@ -81775,6 +81791,7 @@ openalternative.co##div[class="relative flex"]:has(a[href="/advertise"])
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se##div[class] > div[class]:has(> div[class] > div[id^="RAD_D_"])
 manomano.*##div[class]:has(> .c4iHiiE)
 androidauthority.com##div[class]:has(> .pw-incontent)
+pixabay.com##div[class]:has(> [class^="title--"] a[href*="sponsored"])
 scribd.com##div[class]:has(> [data-e2e="dismissible-ad-header-scribd_adhesion"])
 dearbornmarket.com,fairwaymarket.com,gourmetgarage.com,priceritemarketplace.com,shoprite.com,thefreshgrocer.com##div[class^="ColListing"]:has(div[data-testid^="Sponsored"])
 pexels.com##div[class^="FullWidth_container_"]:has(a[rel="sponsored noopener"])
@@ -81808,6 +81825,7 @@ priceline.com##div[data-testid="HTL_NEW_LISTING_CARD_RESP"]:has(a[aria-label*=" 
 twitter.com,x.com##div[data-testid="UserCell"]:has(path[d$="10H8.996V8h7v7z"])
 twitter.com,x.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
 pexels.com##div[data-testid="item"]:has(a[href^="https://www.pexels.com/g/"])
+pexels.com##div[data-testid="item"]:has(h4[data-heading][class*="inlineTitleText"])
 twitter.com,x.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
 lowes.com##div[data-testid="product-carousel"]:has(.sponsored-tag)
 booking.com##div[data-testid="property-card"]:has(div[data-testid="new-ad-design-badge"])
