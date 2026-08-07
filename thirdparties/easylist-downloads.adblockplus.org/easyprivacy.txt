@@ -7218,6 +7218,7 @@ omni.soundestlink.com$image
 ||discopond.com^
 ||discreetfield.com^
 ||discreetquarter.com^
+||distantflame.com^
 ||distilltable.com^
 ||distributionpocket.com^
 ||distributiontomatoes.com^
@@ -8041,6 +8042,7 @@ omni.soundestlink.com$image
 ||pinchsquirrel.com^
 ||pincourse.com^
 ||pingsurvey.com^
+||pipadvance.com^
 ||piquantgrove.com^
 ||piquantmeadow.com^
 ||piquantpigs.com^
