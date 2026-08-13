@@ -8768,6 +8768,7 @@ omni.soundestlink.com$image
 ||turtleface.net^
 ||twelvedawn.com^
 ||twistloss.com^
+||twisty.net^
 ||typepredict.com^
 ||typewebsite.com^
 ||typicalairplane.com^
@@ -8829,6 +8830,7 @@ omni.soundestlink.com$image
 ||victoryideas.com^
 ||viewresource.com^
 ||vilenexus.com^
+||violetdemise.com^
 ||viralfoodie.net^
 ||virtualvincent.com^
 ||vividcanopy.com^
