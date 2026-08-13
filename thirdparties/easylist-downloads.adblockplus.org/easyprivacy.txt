@@ -8858,9 +8858,11 @@ omni.soundestlink.com$image
 ||waylowrates.net^
 ||weatherbytes.net^
 ||weatherpush.net^
+||webpagekit.com^
 ||websitesdude.com^
 ||wellgroomedapparel.com^
 ||wellgroomedhydrant.com^
+||westsideglobe.com^
 ||whimsicalcanyon.com^
 ||whimsicalgrove.com^
 ||whimsicalvantage.com^
