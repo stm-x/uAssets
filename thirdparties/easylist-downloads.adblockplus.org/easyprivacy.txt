@@ -10538,6 +10538,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beacon.cdnma.com^
 ||beacon.errorception.com^
 ||beacon.flow.io^
+||beacon.joinlede.com^
 ||beacon.klm.com^
 ||beacon.peakhour.io^
 ||beacon.riskified.com^
@@ -16570,6 +16571,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.appsflyer.com^
 ||t.av.st^
 ||t.birchlane.com^
+||t.dailydot.com^
 ||t.dailymail.co.uk^
 ||t.deepnote.com^
 ||t.factorform.com^
