@@ -7086,6 +7086,7 @@ omni.soundestlink.com$image
 ||coastersim.com^
 ||coatfood.com^
 ||cobaltoverture.com^
+||cocoacafes.com^
 ||coddledcats.com^
 ||codingunlocked.com^
 ||coffeefire.net^
@@ -7211,6 +7212,7 @@ omni.soundestlink.com$image
 ||damageddistance.com^
 ||damdoor.com^
 ||dampdock.com^
+||dancingmarmot.com^
 ||dandydune.com^
 ||dandyglow.com^
 ||dapperdiscussion.com^
