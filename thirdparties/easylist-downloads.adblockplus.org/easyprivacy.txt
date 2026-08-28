@@ -7468,6 +7468,7 @@ omni.soundestlink.com$image
 ||fieldconfig.com^
 ||figsprotein.com^
 ||figurehunter.net^
+||fileshareengine.com^
 ||fillthemap.com^
 ||filtercutter.com^
 ||finalizeforce.com^
@@ -8197,6 +8198,7 @@ omni.soundestlink.com$image
 ||peoplebrain.net^
 ||pepperrun.com^
 ||perfectfetch.com^
+||permagroove.com^
 ||petitechili.com^
 ||phonecup.com^
 ||phoneresult.com^
@@ -8226,6 +8228,7 @@ omni.soundestlink.com$image
 ||placidperson.com^
 ||planebasin.com^
 ||plantcourse.com^
+||plantscafe.net^
 ||playerhappy.com^
 ||playerscache.com^
 ||playfulriver.com^
