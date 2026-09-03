@@ -8486,6 +8486,7 @@ omni.soundestlink.com$image
 ||sandboxbid.com^
 ||sandstrophies.com^
 ||sandypocket.com^
+||sandytaco.com^
 ||sapnest.com^
 ||satisfycork.com^
 ||savoryink.com^
@@ -8525,6 +8526,7 @@ omni.soundestlink.com$image
 ||screechingfurniture.com^
 ||screechingstocking.com^
 ||screechingstove.com^
+||screenphotos.com^
 ||scribblestring.com^
 ||scrollservice.com^
 ||scrubswim.com^
