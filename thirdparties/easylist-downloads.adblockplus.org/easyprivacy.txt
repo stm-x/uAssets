@@ -8448,6 +8448,7 @@ omni.soundestlink.com$image
 ||robotrefinery.com^
 ||robotsrefinery.com^
 ||rockagainst.com^
+||rockcarving.com^
 ||rocketmonitor.com^
 ||rockstarwriter.com^
 ||rollconnection.com^
@@ -8460,6 +8461,7 @@ omni.soundestlink.com$image
 ||royalrabbit.net^
 ||royalsbagels.com^
 ||royalsweeper.com^
+||rubouthunger.com^
 ||rubyswinehouse.com^
 ||ruralrobin.com^
 ||rusticfrench.com^
@@ -8470,6 +8472,7 @@ omni.soundestlink.com$image
 ||sablesong.com^
 ||sadloaf.com^
 ||saffronrefuge.com^
+||sagetrack.net^
 ||saladbarrel.com^
 ||saladfuel.com^
 ||salmonfin.com^
@@ -53743,7 +53746,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 ||cltr.willhaben.at^
 ||cmp2.channelpartner.de^
 ||cnt.wetteronline.de^
-||collector.orf.at^
 ||comparis.ch/comparis/Tracking/
 ||computerbase.de/analytics
 ||computerbase.de/api2/$ping,xmlhttprequest
