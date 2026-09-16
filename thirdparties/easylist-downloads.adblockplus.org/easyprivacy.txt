@@ -7983,6 +7983,7 @@ omni.soundestlink.com$image
 ||measlymiddle.com^
 ||meatydime.com^
 ||meddleplant.com^
+||mediamaker.net^
 ||mediatescarf.com^
 ||mellowhush.com^
 ||melodiouschorus.com^
@@ -8444,6 +8445,7 @@ omni.soundestlink.com$image
 ||retrocrypt.com^
 ||retrorays.com^
 ||reversetickets.com^
+||reviewacousticguitar.com^
 ||revivalvoice.com^
 ||rhetoricalactivity.com^
 ||rhetoricalloss.com^
