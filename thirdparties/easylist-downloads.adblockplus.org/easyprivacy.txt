@@ -8901,6 +8901,7 @@ omni.soundestlink.com$image
 ||sulkycook.com^
 ||summerobject.com^
 ||sunflaggroup.com^
+||sunlong.net^
 ||sunnylettings.com^
 ||sunsetcampfires.com^
 ||sunsetstatic.com^
@@ -9195,7 +9196,9 @@ omni.soundestlink.com$image
 ||webfountains.com^
 ||webpagekit.com^
 ||websitesdude.com^
+||webspa.net^
 ||webspires.net^
+||weeklycurrents.com^
 ||wellgroomedapparel.com^
 ||wellgroomedhydrant.com^
 ||westsideglobe.com^
