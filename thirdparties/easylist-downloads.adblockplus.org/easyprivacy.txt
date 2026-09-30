@@ -9312,6 +9312,7 @@ omni.soundestlink.com$image
 ||paradehomeandgarden.com/.api/admiral
 ||paradepets.com/.api/admiral
 ||skateboarding.com/.api/admiral
+||succeedscene.com^$domain=theguardian.com
 ||surfer.com/.api/admiral
 ||thespun.com/.api/admiral
 ! *** easylist:easyprivacy/easyprivacy_trackingservers_notifications.txt ***
@@ -16417,7 +16418,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||myspace.com/beacon/
 ||na.groupondata.com^
 ||naiz.eus/visits
-||namethatporn.com/assets/imgs/1x1.gif
 ||narkive.com/ajax/TelemV2?
 ||nasi.etherscan.com^
 ||nature.com/platform/track/
