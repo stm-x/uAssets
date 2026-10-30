@@ -6921,6 +6921,7 @@ omni.soundestlink.com$image
 ||bestboundary.com^
 ||bestclimbers.net^
 ||bestcoffeemachine.net^
+||bestpriceonly.com^
 ||bestshoesboot.com^
 ||bestsportsbra.com^
 ||betazebra.com^
@@ -7616,6 +7617,7 @@ omni.soundestlink.com$image
 ||floweryfact.com^
 ||floweryflavor.com^
 ||floweryoperation.com^
+||fluffybirds.com^
 ||flushingbeast.com^
 ||flutteringfireman.com^
 ||flyflightstar.com^
@@ -7878,6 +7880,7 @@ omni.soundestlink.com$image
 ||incomehippo.com^
 ||incompetentjoke.com^
 ||inconclusiveaction.com^
+||indscout.com^
 ||infamousstream.com^
 ||infinityhedge.com^
 ||informalbook.com^
@@ -15594,6 +15597,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bhphotovideo.com/aperture/shared/js/dataLayer.js
 ||bi.banggood.com^
 ||bicp-analytics.postscript.io^
+||bifrost-api.hotstar.com^
 ||bigw.com.au/api/event/
 ||bigw.com.au/events/
 ||bing.com/fd/ls/GLinkPing.aspx?
